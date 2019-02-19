@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Finder settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.jamescapen.80E99D8B-87AB-4598-9809-E8253A373066.com.apple.finder.62129B0C-BC25-405D-90FB-429721CD3B07</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadUUID</key>
+			<string>62129B0C-BC25-405D-90FB-429721CD3B07</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ShowHardDrivesOnDesktop</key>
+			<true/>
+			<key>ShowMountedServersOnDesktop</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Finder Settings</string>
+	<key>PayloadDisplayName</key>
+	<string>Finder Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.jamescapen.80E99D8B-87AB-4598-9809-E8253A373066</string>
+	<key>PayloadOrganization</key>
+	<string>MVSD</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>80E99D8B-87AB-4598-9809-E8253A373066</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

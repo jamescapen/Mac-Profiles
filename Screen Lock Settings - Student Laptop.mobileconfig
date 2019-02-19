@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Screensaver settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Screensaver</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.jamescapen.800AC294-A7E2-4353-B355-671C92B92F6F.com.apple.screensaver.31E5BFCD-35D7-403A-9A94-93585FAB8613</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.screensaver</string>
+			<key>PayloadUUID</key>
+			<string>31E5BFCD-35D7-403A-9A94-93585FAB8613</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>askForPassword</key>
+			<false/>
+			<key>askForPasswordDelay</key>
+			<integer>2147483647</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disable Screen Lock On Sleep/Screensaver</string>
+	<key>PayloadDisplayName</key>
+	<string>Screen Lock Settings - Student Laptop</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.jamescapen.800AC294-A7E2-4353-B355-671C92B92F6F</string>
+	<key>PayloadOrganization</key>
+	<string>MVSD</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>800AC294-A7E2-4353-B355-671C92B92F6F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
